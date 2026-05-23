@@ -6,7 +6,7 @@ Với case của bạn, AI nên được dùng để **nhân bản năng lực B
 
 Cách triển khai hiệu quả nhất là dựng một `AI outbound factory` theo 7 workflow dưới đây.
 
-**0. Hệ thống seeding đang dựng tạ folder ugcmetrics
+**0. Hệ thống seeding đang dựng tại folder ugcmetrics **
 
 **1. Dựng “bộ não bán hàng” trước**
 Đây là bước nhiều đội bỏ qua, nên AI viết ra thứ nghe hay nhưng không chốt được.
