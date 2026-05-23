@@ -1,0 +1,55 @@
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/public/build/
+/storage/*.key
+/storage/debugbar
+/storage/logs
+.env
+.env.backup
+.env.*
+!.env.example
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+/.phpstorm.meta.php
+/_ide_helper.php
+/_ide_helper_models.php
+
+# Archivos de configuración local
+config/app.local.php
+config/twitch.php
+
+# Cache y logs
+bootstrap/cache/*
+!bootstrap/cache/.gitignore
+.phpunit.result.cache
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del editor
+.editorconfig
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Backups
+*.bak
+*.swp
+*.zip
+*.tar.gz
+
+# Archivos específicos que podrían contener API keys
+twitch_config.php
+api_keys.php
+credentials.json
