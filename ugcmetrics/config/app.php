@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'UGC metrics'),
+    'name' => env('APP_NAME', 'Sale B2B platform'),
 
     /*
     |--------------------------------------------------------------------------
